@@ -5,7 +5,8 @@
 
 Для того, чтобы  подготовить программу к работе, достаточно выполнить лишь  то, что нам предлагает Стартовый помощник, расположенный на рабочем столе  программы ( рисунок 1.)
 
-![Рисунок 1. Стартовый помощник](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_1.png "Рисунок 1. Стартовый помощник")
+Рисунок 1. Стартовый помощник
+![](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_1.png)
 
 Ввод основных данных о фирме с помощью Стартового помощника
 
@@ -16,12 +17,18 @@
 
 С помощью кнопки Начать введем  информацию о фирме. Для этого  надо  выполнить пять  шагов, которые показаны на рисунках 2 - 6.
 
-![Рисунок 2. Шаг 1. Указание формы  собственности](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_2.png)
-![Рисунок 3. Шаг 2. Ввод краткого и полного наименования фирмы](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_3.png)
-![Рисунок 4. Шаг 3. Заполнение кодов](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_4.png)
-![Рисунок 5. Шаг 4. Заполнение ФИО ответственных лиц](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_5.png)
-![Рисунок 6. Шаг 5. Завершение ввода  сведений о фирме](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_6.png)
-![На шаге 5 нажмите кнопку Закончить заполнение.](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_7.png)
+Рисунок 2. Шаг 1. Указание формы  собственности
+![](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_2.png)
+Рисунок 3. Шаг 2. Ввод краткого и полного наименования фирмы
+![](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_3.png)
+Рисунок 4. Шаг 3. Заполнение кодов
+![](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_4.png)
+Рисунок 5. Шаг 4. Заполнение ФИО ответственных лиц
+![](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_5.png)
+Рисунок 6. Шаг 5. Завершение ввода  сведений о фирме
+![](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_6.png)
+На шаге 5 нажмите кнопку Закончить заполнение.
+![](https://raw.github.com/eetk/1c-management-small-firm/master/docs/statics/1_7.png)
 
 В дальнейшем вы можете  изменить введенную информацию в разделе Предприятие, выбрав ссылку «Настройки» на панели навигации, либо  снова  воспользоваться Стартовым помощником (7).
 
