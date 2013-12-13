@@ -4,12 +4,12 @@
 .. toctree::
    :maxdepth: 1
 
-   Ввод_начальных_данных
-   Управление_продажами
-   Производство
-   Выполнение_работ
-   Управление_закупками_и_складской_учет
-   Планирование_и_учет_ДДС
-   Управление_персоналом
-   Управление_финансами
-   Совместное_использование_программ
+   Vvod_nachalnyh_dannyh
+   Upravlenie_prodazhami
+   Proizvodstvo
+   Vypolnenie_rabot
+   Upravlenie_zakupkami_i_skladskoj_uchet
+   Planirovanie_i_uchet_DDS
+   Upravlenie_personalom
+   Upravlenie_finansami
+   Sovmestnoe_ispolzovanie_programm
