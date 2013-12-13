@@ -467,17 +467,17 @@
 
 7. Отражаются ли заказ-наряды в отчете «Заказы покупателей»?
 
-.. |image0| image:: images/3/image00.jpg
-.. |image1| image:: images/3/image01.jpg
-.. |image2| image:: images/3/image06.jpg
-.. |image3| image:: images/3/image07.png
-.. |image4| image:: images/3/image08.jpg
-.. |image5| image:: images/3/image09.png
-.. |image6| image:: images/3/image10.jpg
-.. |image7| image:: images/3/image11.jpg
-.. |image8| image:: images/3/image12.jpg
-.. |image9| image:: images/3/image13.jpg
-.. |image10| image:: images/3/image02.jpg
-.. |image11| image:: images/3/image03.jpg
-.. |image12| image:: images/3/image04.jpg
-.. |image13| image:: images/3/image05.jpg
+.. |image0| image:: static/images/3/image00.jpg
+.. |image1| image:: static/images/3/image01.jpg
+.. |image2| image:: static/images/3/image06.jpg
+.. |image3| image:: static/images/3/image07.png
+.. |image4| image:: static/images/3/image08.jpg
+.. |image5| image:: static/images/3/image09.png
+.. |image6| image:: static/images/3/image10.jpg
+.. |image7| image:: static/images/3/image11.jpg
+.. |image8| image:: static/images/3/image12.jpg
+.. |image9| image:: static/images/3/image13.jpg
+.. |image10| image:: static/images/3/image02.jpg
+.. |image11| image:: static/images/3/image03.jpg
+.. |image12| image:: static/images/3/image04.jpg
+.. |image13| image:: static/images/3/image05.jpg
